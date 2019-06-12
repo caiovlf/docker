@@ -24,7 +24,7 @@ Após a instalação, você pode executar o comando de teste para verificar se t
 
 	docker run hello-world
 
-Ao executar o comando **run** o Docker verifica se a imagem está disponível na máquina local, e caso não esteja ele faz o download no **registry** público padrão - um repositório de imagens - localizado em [hub.docker.com](hub.docker.com).
+Ao executar o comando **run** o Docker verifica se a imagem está disponível na máquina local, e caso não esteja ele faz o download no **registry** público padrão - um repositório de imagens - localizado em [https://hub.docker.com/](https://hub.docker.com/).
 
 O comando **run** é a junção de dois outros comandos:
 
